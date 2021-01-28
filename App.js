@@ -6,6 +6,7 @@ function App() {
       <div className="App">
           <ImageGridItem />
           <h1>This is background</h1>
+          <p>This is WooHoo description</p>
       </div>
   );
 }
