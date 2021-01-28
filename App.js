@@ -5,6 +5,7 @@ function App() {
   return (
       <div className="App">
           <ImageGridItem />
+          <h1>This is background</h1>
       </div>
   );
 }
